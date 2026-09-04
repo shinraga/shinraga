@@ -1,7 +1,7 @@
 ## Hello, I'm Bryan!
 <a href="https://linkedin.com/in/bryan-tran-8776322ab/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently an undergraduate in CS with a profound interest in technology and a dedication to solving complex problems.
+I am currently an undergraduate majoring in CS with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
