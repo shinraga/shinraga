@@ -1,6 +1,6 @@
 ## Hello, I'm Bryan!
 
-I am a 3rd year Computer Science student with a strong interst in technology, cybersecurity, and solving complex problems. I'm building my skills through hands-on labs, security tools, and practical projects that is focused on threat detection, incident response, and security automation. 
+I am a 3rd year Computer Science student with a strong interest in technology, cybersecurity, and solving complex problems. I'm building my skills through hands-on labs, security tools, and practical projects that is focused on threat detection, incident response, and security automation. 
 
 ## Objective
 
