@@ -8,8 +8,8 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">T-Pot HoneyPot Server</a> | Kali Linux, AWS EC2, Kibana, Elastic |
 | <a href="">SOC Automation Lab</a> | VirutalBox, VMware, Splunk, n8n, Slack, Python |
-| <a href="">Full-Stack Web Application Security Lab</a> | Python, HTML | 
-| <a href="">myPortfolio</a> | HTML, CSS |
+| <a Full-Stack Web Application Security Lab (WIP)</a> | Python, HTML | 
+| <a myPortfolio(WIP)</a> | HTML, CSS |
 
 
 ## Languages
