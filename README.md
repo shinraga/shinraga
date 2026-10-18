@@ -38,9 +38,9 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 ## Certifications
 
 <div>
-  <a href="Coursera.jpg">
-    <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
-  </a>
+<a href="PASTE-YOUR-CERTIFICATE-LINK-HERE">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
+</a>
 </div>
 
 ## Projects
