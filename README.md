@@ -11,8 +11,8 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Honeypot Deployment & Threat Intelligence     | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
-| SIEM                                          | <a href="">SOC Automation LAb</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM                                          | <a href="">SOC Automation Lab</a>|
+| Web Application Pentesting                    | <a href="">Full-Stack Web Application Security Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
