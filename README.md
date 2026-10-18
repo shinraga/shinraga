@@ -11,8 +11,8 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HoneyPot-Project-AWS                          | <a href="">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence LAb</a>|
+| HoneyPot-Project-AWS                          | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
+| Network Traffic Monitoring and Attack Detectio| <a href="">Threat Intelligence Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
