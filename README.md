@@ -2,10 +2,6 @@
 
 I am a 3rd year Computer Science student with a strong interest in technology, cybersecurity, and solving complex problems. I'm building my skills through hands-on labs, security tools, and practical projects that is focused on threat detection, incident response, and security automation. 
 
-## Objective
-
-My study in computer science has led me to develop a passion for cybersecurity, and I am now eager to dive deeper into this field, specifically getting hands-on experience with key security tools.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
