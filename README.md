@@ -30,7 +30,7 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 
 ## 🏅 Certifications
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/YNVWILE9XW1W">
+<a href="[https://www.coursera.org/account/accomplishments/certificate/YNVWILE9XW1W](https://www.coursera.org/account/accomplishments/specialization/LFA31XHSP1DQ)">
   <img
     src="https://img.shields.io/badge/GOOGLE_CYBERSECURITY-4285F4?style=for-the-badge&logo=google&logoColor=white"
     alt="Google Cybersecurity Certificate"
