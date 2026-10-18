@@ -2,13 +2,15 @@
 
 I am a 3rd year Computer Science student with a strong interest in technology, cybersecurity, and solving complex problems. I'm building my skills through hands-on labs, security tools, and practical projects that is focused on threat detection, incident response, and security automation. Outside of school, I like to 3d-print and go hiking!
 
-## Project
+## Projects
 
-| Skill                                         | Associated Project         |
+| Name                                     | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Honeypot Deployment & Threat Intelligence     | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
+| T-Pot Honeypot                                | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
 | SIEM                                          | <a href="">SOC Automation Lab</a>|
 | Web Application Pentesting                    | <a href="">Full-Stack Web Application Security Lab</a>|
+| myPortfolio                                   | <a href="">Portfolio</a>|
+
 
 ## Languages
 
