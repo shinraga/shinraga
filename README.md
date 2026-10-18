@@ -4,11 +4,11 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 
 ## Projects
 
-| Name                                       | Language |
+| Name                                       | Utilization |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/shinraga/HoneyPot-Project-AWS">T-Pot HoneyPot Server</a> |
-| <a href="">SOC Automation Lab</a> | 
-| <a href="">Full-Stack Web Application Security Lab</a> | 
+| <a href="https://github.com/shinraga/HoneyPot-Project-AWS">T-Pot HoneyPot Server</a> | Kali Linux, AWS EC2, Kibana, Elastic |
+| <a href="">SOC Automation Lab</a> | VirutalBox, VMware, Splunk, n8n, Slack, Python |
+| <a href="">Full-Stack Web Application Security Lab</a> | Python, HTML | 
 | <a href="">myPortfolio</a> | HTML, CSS |
 
 
