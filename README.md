@@ -7,7 +7,7 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 | Name                                       | Technology & Tools |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">T-Pot HoneyPot Server</a> | Kali Linux, AWS EC2, Kibana, Elastic |
-| SOC Automation Lab (WIP) </a> | VirutalBox, VMware, Splunk, n8n, Slack, Python, ChatGPT |
+| SOC Automation Lab (WIP) </a> | VirtualBox, VMware, Splunk, n8n, Slack, Python, ChatGPT |
 | Full-Stack Web Application Security Lab (WIP) </a> | Python, HTML | 
 | myPortfolio (WIP) </a> | HTML, CSS |
 
