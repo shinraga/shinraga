@@ -5,7 +5,7 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 ## Projects
 
 | Name                                     | Associated Project         | Language |
-|-----------------------------------------------|----------------------------|
+|-----------------------------------------------|----------------------------| ---------------------------------------------------------------|
 | T-Pot Honeypot                                | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a> |
 | SIEM                                          | <a href="">SOC Automation Lab</a>|
 | Web Application Pentesting                    | <a href="">Full-Stack Web Application Security Lab</a>|
