@@ -37,13 +37,13 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 
 ## 🏅 Certifications
 
-
 <a href="YOUR_CERTIFICATE_URL">
   <img
-    src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white"
+    src="https://img.shields.io/badge/GOOGLE_CYBERSECURITY_CERTIFICATE-4285F4?style=for-the-badge&logo=google&logoColor=white"
     alt="Google Cybersecurity Certificate"
   />
 </a>
+
 
 
 ## Projects
