@@ -9,7 +9,7 @@ I am a 3rd year Computer Science student with a strong interest in technology, c
 | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">T-Pot HoneyPot Server</a> |
 | <a href="">SOC Automation Lab</a> | 
 | <a href="">Full-Stack Web Application Security Lab</a> | 
-| <a href="">Portfolio</a> | | HTML, CSS |
+| <a href="">myPortfolio</a> | HTML, CSS |
 
 
 ## Languages
