@@ -1,6 +1,6 @@
 ## Hello, I'm Bryan!
 
-I am currently an undergraduate majoring in CS with a profound interest in technology and a dedication to solving complex problems.
+I am a 3rd year Computer Science student with a strong interst in technology, cybersecurity, and solving complex problems. I'm building my skills through hands-on labs, security tools, and practical projects that is focused on threat detection, incident response, and security automation. 
 
 ## Objective
 
@@ -10,14 +10,14 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HoneyPot-Project-AWS                          | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
-| Network Traffic Monitoring and Attack Detectio| <a href="">Threat Intelligence Lab</a>|
+| Honeypot Deployment & Threat Intelligence     | <a href="https://github.com/shinraga/HoneyPot-Project-AWS">Threat Intelligence Lab</a>|
+| SIEM                                          | <a href="">SOC Automation LAb</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Tools of Interests
 
 ### Network
 <div>
