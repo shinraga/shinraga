@@ -37,7 +37,7 @@ My study in computer science has led me to develop a passion for cybersecurity, 
 
 ## 🏅 Certifications
 
-<a href="YOUR_CERTIFICATE_URL">
+<a href="https://www.coursera.org/account/accomplishments/certificate/YNVWILE9XW1W">
   <img
     src="https://img.shields.io/badge/GOOGLE_CYBERSECURITY-4285F4?style=for-the-badge&logo=google&logoColor=white"
     alt="Google Cybersecurity Certificate"
